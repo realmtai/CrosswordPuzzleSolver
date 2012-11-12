@@ -1,0 +1,25 @@
+
+ALLEGIANCES            
+R A A   H TOWNCRIER J V
+M D L  MACE A A   E O I
+O I L C I E T S KNIGHTS
+U E A O N D TITHE N N O
+R S N I M   L L E S   R
+Y   T FLAGS E E P  DOGS
+ SWORDS I E    D   R   
+A I Y   LORDS WENCHES  
+R L  C H  F A  E   S   
+R D SHIELDS X  D G S   
+O B  A R R MOATS U  C  
+WOOL R A A  N E  I  O  
+  A  G L W    NOBLEMAN 
+  R  E D B    T  D  T  
+     R  CRESTS F  CLOAK
+J  P   B I    MANOR F I
+OLDENGLAND     I  O A N
+U  A   T G SQUIRE S R G
+S  S   T E P   S  S M  
+T  A   L   U      B S  
+ LANCE E   R  FLAGON   
+   T       S      W    
+cpu time: 404 real time: 413 gc time: 0

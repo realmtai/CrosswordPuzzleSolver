@@ -1,0 +1,13 @@
+;; Simple puzzle by csk
+5
+....####.
+....#.#..
+....#.#..
+#####.###
+......#..
+5
+BYRON
+CRAIG
+IAN
+JACK
+JOHN
